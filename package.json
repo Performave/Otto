@@ -1,0 +1,22 @@
+{
+  "name": "Otto",
+  "version": "0.0.1",
+  "description": "OKTSA official design language",
+  "main": "index.js",
+  "authors": {
+    "name": "Eric Wang",
+    "email": "eric.wang401@gmail.com"
+  },
+  "repository": "https://github.com/Performave/Otto",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "vuepress-theme-book": "^0.0.5"
+  }
+}
