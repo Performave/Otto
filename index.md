@@ -2,7 +2,7 @@
 home: true
 tagline: OKTSA official design language
 actionText: Quick Start →
-actionLink: /otto/
+actionLink: /quickstart/
 features:
 - title: Practical
   details: Uses practical design to make it easy for visitors to browse
