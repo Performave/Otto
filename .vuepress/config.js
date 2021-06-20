@@ -53,9 +53,16 @@ module.exports = {
           title: 'Core Concepts',
           collapsable: false,
           children: [
+            ['/core_concepts/lists', 'Lists'],
+            ['/core_concepts/mobileresponsiveness', 'Mobile Responsiveness'],
             ['/core_concepts/typography', 'Typography (font + text)'],
             ['/core_concepts/whitespace', 'Whitespace'],
           ],
+        },
+        {
+          title: 'Creating a page',
+          collapsable: false,
+          children: [['/creating_a_page/', 'Instructions']],
         },
       ],
     },

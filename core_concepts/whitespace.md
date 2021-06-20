@@ -18,10 +18,17 @@ STOP trying to ration screen estate!!!
 
 ## Good
 ![Good](https://imgur.com/OAhJI1N.png)
+
+::: tip Good
 The spacing is taking advantage of the extra screen space to properly organize everything
+
+Plus, it looks awesome as well (:
+:::
 
 ## Bad
 
 ![Nonexistent space](https://imgur.com/5Ky3ffx.png)
 
+::: danger BAD
 There's virtually no spacing at all. 
+:::
