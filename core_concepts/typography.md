@@ -10,7 +10,8 @@ It's really easy to choose a color that looks **not great** and choose an incorr
 |--|--|--|--|--|
 | Heading | 40 | #DC2626 | Manrope Bold | Page name ONLY |
 | Subheading | 40 | #000000 | Manrope Regular | Organizing content (contact info, submission, requirements, etc) |
-| Sub-sub heading | 30 | #000000 | Manrope Regular | For information that can be grouped together under a subheading (see the second "good" example)
+| Sub-sub heading | 30 | #000000 | Manrope Regular | For information that can be grouped together under a subheading (see the second "good" example) |
+| Paragraph Text (normal) | 16 | #2B2E38 | Manrope Regular | Usually goes below headings, subheadings, and sub-sub headings |
 
 ::: danger HALT
 Do not use any other font other than **MANROPE**
@@ -50,5 +51,5 @@ ONLY use sub heading when it's completely different information on the same page
 
 ::: danger BAD
 ^ Above, all the subheadings and heading use the same red color.
-Next, all the sub headings are small and the same size as the paragraph texts. This is bad because it creates very **LITTLE** visual hierarchy (try reading a newspaper from the 1800s!).
+Next, all the sub headings are small and the same size as the paragraph texts. This is bad because it creates very **LITTLE** visual hierarchy ([try reading a newspaper from the 1800s!](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nytrib1864.jpg/400px-Nytrib1864.jpg)).
 :::

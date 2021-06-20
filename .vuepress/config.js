@@ -64,6 +64,11 @@ module.exports = {
           collapsable: false,
           children: [['/creating_a_page/', 'Instructions']],
         },
+        {
+          title: 'Misc',
+          collapsable: false,
+          children: [['/misc/redesigning_old_pages', 'Redesigning Old Pages']],
+        },
       ],
     },
   },
