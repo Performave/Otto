@@ -41,7 +41,7 @@ This is a great example of sub-sub heading because **"Eastern Region Advisors" a
 ONLY use sub heading when it's completely different information on the same page!!
 :::
 
-## Bad (STAY AWAY!!!)
+## Bad
 
 ![Bad typography example](https://imgur.com/rBLgKfo.png)
 
