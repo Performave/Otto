@@ -3,7 +3,7 @@
 
 Typography is crucial when designing a website.
 
-It's really easy to choose a color that looks **not great** and choose an incorrect font size, which makes it hard for visitors to understand the visual hierarchy.
+It's really easy to choose a color and fontsize that doesn't create contrast, which makes it hard for visitors to understand the visual hierarchy.
 
 # Text types
 | Type | Size (pixels) | Color (hex) | Font | Uses |
@@ -14,11 +14,7 @@ It's really easy to choose a color that looks **not great** and choose an incorr
 | Paragraph Text (normal) | 16 | #2B2E38 | Manrope Regular | Usually goes below headings, subheadings, and sub-sub headings |
 
 ::: danger HALT
-Do not use any other font other than **MANROPE**
-
-*But I want to use Arial, Comic Sans, Times New Roman, etc*
-
-No
+Only use the font **MANROPE**
 :::
 
 # Formatting

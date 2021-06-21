@@ -32,4 +32,4 @@ Here's an example of sub headings and sub-sub headings
 Congratulations!! 🎉🎉🎉🎉
 
 
-But most importantly, I wanted to get across the idea that everything you make on the website **should** be **pragmatic**. You are designing a website the way the visitors want to see it, not for yourself.
+But most importantly, I wanted to get across the idea that everything you make on the website **should** be **pragmatic**. You are designing a website the way the visitors want to see it.

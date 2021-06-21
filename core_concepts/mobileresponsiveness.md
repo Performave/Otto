@@ -46,9 +46,7 @@ Plenty of whitespace is used to distinguish the text from the buttons AND the co
 ## Bad
 ![Bad](https://imgur.com/5GTOlZw.png)
 :::danger BAD
-Whitespace.exe has stopped responding 
-
-Jokes aside, there's virtually no whitespace. ALSO, the title is aligned to the CENTER, which breaks the consistency of aligning to the **LEFT**.
+There is no whitespace. Also, the title is aligned to the **CENTER**, which breaks the consistency of aligning to the **LEFT**.
 :::
 
 ![Bad](https://imgur.com/yfdgQuV.png)

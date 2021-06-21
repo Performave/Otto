@@ -1,9 +1,9 @@
 # Whitespace
-Hey, wake up man it's **{insert current year}**. 
+Hey, it's **{insert current year}**. 
 
-You have phones that are almost **triple** the size of the **original iPhone in 2007!!!!**
-If you bought a big screen, you're gonna want to use the big screen!!!
-STOP trying to ration screen estate!!!
+You have phones that are almost **triple** the size of the **original iPhone in 2007.**
+If you bought a big screen, you're going to want to use the big screen.
+Please **stop** trying to ration screen estate.
 
 # Best Practices
 
