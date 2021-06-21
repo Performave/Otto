@@ -22,7 +22,15 @@ You can make this by clicking the **+ symbol on the left** -> **text** -> **them
 
 ![Creating body paragraph](https://imgur.com/80w4AfH.png)
 
-## Step 4 (extra)
+## Step 4
+
+It's time to make sure your new page is mobile compliant 📲
+
+Visit **"Mobile Responsiveness"** in the **"Core Concepts"** for more information.
+
+Make sure there is adequate whitespace between elements vertically and make sure buttons are large enough so it would be easy to tap on them.
+
+## Step 5 (extra)
 
 Here's an example of sub headings and sub-sub headings
 ![subheadings and sub-sub headings](https://imgur.com/0nGjNGm.png)

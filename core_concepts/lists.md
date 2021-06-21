@@ -20,12 +20,12 @@ In other words, make it as convenient as possible.
 ![Not recommended](https://imgur.com/rcQnuQa.png)
 
 :::danger Not recommended
-The reason why this is bad is because **it looks like a block of text**.
+The reason why this is not recommended is because **it looks like a block of text**.
 
 You may ask: Eric, this is the new website, why didn't you fix it?
 It's because there's too many links & elements. 
 
-With the limitations of Wix, it makes it harder for me, a professional web developer, to customize it.
+With the limitations of Wix, it makes it harder for me, a person who typically works with code, to customize it.
 
 This means before you make a list, consider using something better suited for all of those links (i.g. table).
 :::

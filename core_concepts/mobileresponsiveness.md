@@ -13,8 +13,13 @@ See: [https://imgur.com/5MFgqT0.png](https://imgur.com/5MFgqT0.png)
 ### Why?
 This is because mobile responsiveness **does not exist** in Wix.
 
-To explain it better: imagine you have a large textbook (12" x 9"), and you want to bring it with you on a road trip. Your parents, [Wix.com](https://wix.com), says it's too big to fit in a space (10" x 5"), so what they do is chop off the overlapping sections of the book so it fits in the space.
+To explain it better: imagine you have a large textbook (12" x 9"), and you want to bring it with you on a road trip (just pretend you do because you have an exam next week). Your parents, [Wix.com](https://wix.com), says it's too big to fit in a space (10" x 5"), so what they do is chop off the overlapping sections of the book so it fits in the space.
 Sure, it gets the job done. But in practice, the textbook is unreadable.
+
+As a result, you struggle on the exam because most of the information is missing or misplaced.
+
+
+Now circling back to the OKTSA website, if a member can't get all the information they need (i.g. they are on phones or tablets), there's a chance they will miss out on important information (i.g. submitting work logs, sources, etc).
 
 # Best Practices
 ### Formatting text
