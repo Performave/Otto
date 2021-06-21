@@ -1,9 +1,8 @@
 # Whitespace
 Hey, it's **{insert current year}**. 
 
-You have phones that are almost **triple** the size of the **original iPhone in 2007.**
-If you bought a big screen, you're going to want to use the big screen.
-Please **stop** trying to ration screen estate.
+We have have phones that are almost **triple** the size of the **original iPhone in 2007.**
+From this, we can use the extra room to organize and space out content
 
 # Best Practices
 
@@ -16,7 +15,7 @@ Please **stop** trying to ration screen estate.
 
 # Examples
 
-## Good
+## Recommended
 ![Good](https://imgur.com/OAhJI1N.png)
 
 ::: tip Good
@@ -25,10 +24,10 @@ The spacing is taking advantage of the extra screen space to properly organize e
 Plus, it looks awesome as well (:
 :::
 
-## Bad
+## Not Recommended
 
 ![Nonexistent space](https://imgur.com/5Ky3ffx.png)
 
-::: danger BAD
+::: danger Not Recommended
 There's virtually no spacing at all. 
 :::

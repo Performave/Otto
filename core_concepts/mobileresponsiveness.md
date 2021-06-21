@@ -31,7 +31,7 @@ You basically want WHITESPACE between the content and the footer.
 See: [https://imgur.com/5M1cBxg.png](https://imgur.com/5M1cBxg.png)
 
 # Examples
-## Good
+## Recommended
 ![Good](https://imgur.com/p1DWwLp.png)
 ::: tip Good
 Plenty of whitespace is used without taking up TOO much space.
@@ -43,13 +43,13 @@ The visitor doesn't feel claustrophobic, and it also looks visually appealing ðŸ
 Plenty of whitespace is used to distinguish the text from the buttons AND the content OVERALL from the footer.
 :::
 
-## Bad
-![Bad](https://imgur.com/5GTOlZw.png)
-:::danger BAD
+## Not Recommended
+![Not recommended](https://imgur.com/5GTOlZw.png)
+:::danger Not Recommended
 There is no whitespace. Also, the title is aligned to the **CENTER**, which breaks the consistency of aligning to the **LEFT**.
 :::
 
-![Bad](https://imgur.com/yfdgQuV.png)
-:::danger BAD
+![Not recommended](https://imgur.com/yfdgQuV.png)
+:::danger Not Recommended
 There is no whitespace between the buttons and the footer.
 :::

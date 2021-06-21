@@ -22,7 +22,7 @@ For formatting, I only allow **ALIGN LEFT** for EVERYTHING because it's consiste
 
 # Examples
 
-## Good
+## Recommended
 ![Good example](https://imgur.com/CTex9B4.png)
 
 ::: tip Good
@@ -41,11 +41,11 @@ This is a great example of sub-sub heading because **"Eastern Region Advisors" a
 ONLY use sub heading when it's completely different information on the same page!!
 :::
 
-## Bad
+## Not Recommended
 
-![Bad typography example](https://imgur.com/rBLgKfo.png)
+![Not Recommended](https://imgur.com/rBLgKfo.png)
 
-::: danger BAD
+::: danger Not Recommended
 ^ Above, all the subheadings and heading use the same red color.
 Next, all the sub headings are small and the same size as the paragraph texts. This is bad because it creates very **LITTLE** visual hierarchy ([try reading a newspaper from the 1800s!](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nytrib1864.jpg/400px-Nytrib1864.jpg)).
 :::
